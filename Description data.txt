@@ -1,0 +1,17 @@
+Average average temperature (TAVG)
+Average maximum temperature (TMAX)
+Average minimum temperature (TMIN)
+Extreme maximum percipitation (EMXP)
+Extreme maximum temperature (EMXT)
+Extreme minimum temperature (EMNT)
+Number days with greater than 0.25mm of precipitation (DP01)
+Number days with greater than 2.54mm of precipitation (DP10)
+Number days with greater than 25.4mm of snow depth    (DSND)
+Number days with greater than 25.4mm of precipitation (DP1X)
+Precipitation (PRCP) = total monthly precipitation
+
+
+California: Sacramento
+Texas: Austin camp Mabry
+NY: Albany 
+Illinois: Springfield
